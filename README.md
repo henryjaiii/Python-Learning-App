@@ -1,25 +1,25 @@
-# 📱 Python Learning App – Mobile-Based Programming Learning Tool
+# Python Learning App – Mobile-Based Programming Learning Tool
 
-## 🎯 Project Overview
+## Project Overview
 
 This project is a **mobile-first Python learning application** designed to help beginners learn programming in short, flexible sessions. It addresses common pain points in existing platforms, such as complex error messages, limited practice formats, lack of structured learning paths, and insufficient real-time support.
 
-> 🧠 Developed as part of the COMP4913 Capstone Project at The Hong Kong Polytechnic University.
+> Developed as part of the COMP4913 Capstone Project at The Hong Kong Polytechnic University.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
-- ✅ **Level-based Learning Path** – Beginner → Intermediate → Advanced  
-- ✅ **Interactive Practice Formats** – Multiple choice, fill-in-the-blanks, coding challenges, drag-and-drop, mini-projects  
-- ✅ **Simplified Error Messages** – Converts technical Python tracebacks into beginner-friendly explanations  
-- ✅ **AI Chatbot Tutor** – Prompt-engineered chatbot for real-time Python-related Q&A  
-- ✅ **Progress Tracking** – Visual progress bars and level-based completion tracking  
-- ✅ **Mobile-Optimized UI** – Card-based, dark-themed interface for reduced cognitive load
+-  **Level-based Learning Path** – Beginner → Intermediate → Advanced  
+- **Interactive Practice Formats** – Multiple choice, fill-in-the-blanks, coding challenges, drag-and-drop, mini-projects  
+- **Simplified Error Messages** – Converts technical Python tracebacks into beginner-friendly explanations  
+- **AI Chatbot Tutor** – Prompt-engineered chatbot for real-time Python-related Q&A  
+-  **Progress Tracking** – Visual progress bars and level-based completion tracking  
+-  **Mobile-Optimized UI** – Card-based, dark-themed interface for reduced cognitive load
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer       | Technology                          |
 |-------------|--------------------------------------|
@@ -32,19 +32,42 @@ This project is a **mobile-first Python learning application** designed to help 
 
 ---
 
-## 📱 Screenshots (Concept)
+##  Screenshots
 
-> 🔧 Actual screenshots are included in the [full report](./Final%20report_new_version.pdf) (Page 15–35).
+>  Actual screenshots are included in the [full report](./doc/Report.pdf) (Page 15–35).
 
 - Login / Sign Up  
+![Sign Up ](./screenshots/sign_up.png)
+
 - Home Page (Card-based lesson list)  
+![Home Page](./screenshots/home_page.png)
 - Lesson & Exercise Pages  
+#### Set 1
+./screenshots/Exercise1.png
+./screenshots/Exercise2.png
+./screenshots/Exercise3.png
+./screenshots/Exercise4.png
+
+#### Set 2
+./screenshots/Exercise5.png
+./screenshots/Exercise6.png
+./screenshots/Exercise7.png
+./screenshots/Exercise8.png
+
+
+
 - AI Chatbot Interface  
-- Progress Tracker & Level Navigation
+![Chat bot](./screenshots/AI_Chat.png)
+
+- Level Navigation
+![Navigation](./screenshots/Navigation.png)
+
+- Profile  & Progress Tracker 
+![Profile](./screenshots/profile.png)
 
 ---
 
-## 🧪 Evaluation Highlights
+##  Evaluation Highlights
 
 - **UI Usability** – 70%+ preferred simplified card-based design over text-heavy layout  
 - **Error Message Clarity** – 100% of users rated simplified errors as easy to understand (scores 4–5/5)  
@@ -54,7 +77,7 @@ This project is a **mobile-first Python learning application** designed to help 
 
 ---
 
-## 📚 Problem-Solution Mapping
+## Problem-Solution Mapping
 
 | Problem | Solution |
 |--------|----------|
@@ -66,22 +89,22 @@ This project is a **mobile-first Python learning application** designed to help 
 
 ---
 
-## 📄 Report & Appendix
+##  Report & Appendix
 
-- Full project report: [`Final report_new_version.pdf`](./doc/Report.pdf)  
+- Full project report: [`Final report.pdf`](./doc/report.pdf)  
 - Appendix includes: UI designs, database schema, test cases, evaluation questionnaires
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **LI KA KI**  
 BSc in Computing, The Hong Kong Polytechnic University  
-📧 Contact available upon request
+Contact available upon request
 
 ---
 
-## 📌 Future Work
+## Future Work
 
 - Expand lesson content and exercise bank  
 - Improve code execution reliability and security  
@@ -90,7 +113,7 @@ BSc in Computing, The Hong Kong Polytechnic University
 
 ---
 
-## ⭐ Why This Project Stands Out
+## Why This Project Stands Out
 
 - Designed specifically for **mobile microlearning**  
 - Combines **pedagogical structure** with **AI-powered support**  
