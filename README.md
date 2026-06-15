@@ -43,17 +43,22 @@ This project is a **mobile-first Python learning application** designed to help 
 <img src="./screenshots/home_page.png" width="200" />
 
 - Lesson & Exercise Pages  
-#### Set 1
-<img src="./screenshots/Exercise1.png" width="200" />
-<img src="./screenshots/Exercise2.png" width="200" />
-<img src="./screenshots/Exercise3.png" width="200" />
-<img src="./screenshots/Exercise4.png" width="200" />
+<table>
+<tr>
+<td><img src="./screenshots/Exercise1.png" width="200"/></td>
+<td><img src="./screenshots/Exercise2.png" width="200"/></td>
+<td><img src="./screenshots/Exercise3.png" width="200"/></td>
+<td><img src="./screenshots/Exercise4.png" width="200"/></td>
+</tr>
 
-#### Set 2
-<img src="./screenshots/Exercise5.png" width="200" />
-<img src="./screenshots/Exercise6.png" width="200" />
-<img src="./screenshots/Exercise7.png" width="200" />
-<img src="./screenshots/Exercise8.png" width="200" />
+<tr>
+<td><img src="./screenshots/Exercise5.png" width="200"/></td>
+<td><img src="./screenshots/Exercise6.png" width="200"/></td>
+<td><img src="./screenshots/Exercise7.png" width="200"/></td>
+<td><img src="./screenshots/Exercise8.png" width="200"/></td>
+</tr>
+</table>
+
 
 
 
