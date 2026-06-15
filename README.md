@@ -68,7 +68,7 @@ This project is a **mobile-first Python learning application** designed to help 
 
 ## 📄 Report & Appendix
 
-- Full project report: [`Final report_new_version.pdf`](./Final%20report_new_version.pdf)  
+- Full project report: [`Final report_new_version.pdf`](./doc/Report.pdf)  
 - Appendix includes: UI designs, database schema, test cases, evaluation questionnaires
 
 ---
