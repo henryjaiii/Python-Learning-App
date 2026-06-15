@@ -37,33 +37,35 @@ This project is a **mobile-first Python learning application** designed to help 
 >  Actual screenshots are included in the [full report](./doc/Report.pdf) (Page 15–35).
 
 - Login / Sign Up  
-![Sign Up ](./screenshots/sign_up.png)
+<img src="./screenshots/sign_up.png" width="200" />
 
 - Home Page (Card-based lesson list)  
-![Home Page](./screenshots/home_page.png)
+<img src="./screenshots/home_page.png" width="200" />
+
 - Lesson & Exercise Pages  
 #### Set 1
-./screenshots/Exercise1.png
-./screenshots/Exercise2.png
-./screenshots/Exercise3.png
-./screenshots/Exercise4.png
+<img src="./screenshots/Exercise1.png" width="200" />
+<img src="./screenshots/Exercise2.png" width="200" />
+<img src="./screenshots/Exercise3.png" width="200" />
+<img src="./screenshots/Exercise4.png" width="200" />
 
 #### Set 2
-./screenshots/Exercise5.png
-./screenshots/Exercise6.png
-./screenshots/Exercise7.png
-./screenshots/Exercise8.png
+<img src="./screenshots/Exercise5.png" width="200" />
+<img src="./screenshots/Exercise6.png" width="200" />
+<img src="./screenshots/Exercise7.png" width="200" />
+<img src="./screenshots/Exercise8.png" width="200" />
+
 
 
 
 - AI Chatbot Interface  
-![Chat bot](./screenshots/AI_Chat.png)
+<img src="./screenshots/AI_Chat.png" width="200" />
 
 - Level Navigation
-![Navigation](./screenshots/Navigation.png)
+<img src="./screenshots/Navigation.png" width="200" />
 
 - Profile  & Progress Tracker 
-![Profile](./screenshots/profile.png)
+<img src="./screenshots/profile.png" width="200" />
 
 ---
 
