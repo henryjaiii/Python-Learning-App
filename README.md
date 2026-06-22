@@ -4,7 +4,6 @@
 
 This project is a **mobile-first Python learning application** designed to help beginners learn programming in short, flexible sessions. It addresses common pain points in existing platforms, such as complex error messages, limited practice formats, lack of structured learning paths, and insufficient real-time support.
 
-> Developed as part of the COMP4913 Capstone Project at The Hong Kong Polytechnic University.
 
 ---
 
